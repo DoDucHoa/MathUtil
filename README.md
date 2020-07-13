@@ -11,5 +11,6 @@ Introduction to Software Engineering course at FPT University - HCMC campus
 ## Connect me via 
 1. [GitHub](http://github.com/DoDucHoa)
 2. [Facebook](http://facebook.com/MinOrMaxzee)
+3. [Email](http://hhoa0978@gmail.com)
 
-#### © 2020 by DoDucHoa
+#### © 2020 by DoDucHoa | FPT University - HCMC Campus
