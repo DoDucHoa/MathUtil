@@ -45,7 +45,8 @@ public class MathUtilTest {
         //nen minh ko co xai ham assertEquals() dc vì hàm này cần 2 value expected và actual
         //trong khi đó ném ra ngoại lệ ko phảo là actual value để so sánh
         //ta phải xài chiêu thức khác khi bắt ngoại lệ coi có đúng là ngoại lệ mình cần ko
-        computeFactorial(-5);
+        //computeFactorial(-5);
+        computeFactorial(16); //giai thua tang rat nhanh nen ko choi qua 15
     }
     //code có thể tiềm ẩn lỗi nhưng clean & build luôn ra file .jar nếu code ko sai cú pháp
 //vay thì nguy hiem qua di
